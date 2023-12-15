@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
+
 table,td{
 	border:1px solid black;
 }
  .imageContainer img {
-            width: 200px;
-	        height:200px
-            
+            width: 200px;         
         }
-   .textColumn {
-            width: 600px;
+   .textColumn{
+            width: 400px;
+	 text-align:center;
         }
   
